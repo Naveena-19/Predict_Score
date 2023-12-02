@@ -39,3 +39,7 @@ streamlit run final_ui.py
 ### Notes:
 - Ensure all necessary dependencies are installed as specified in the project's setup.
 - The codebase contains all the required modules and functionalities for automated descriptive answer evaluation.
+
+### OUTPUT:
+
+![Uploding paper](
