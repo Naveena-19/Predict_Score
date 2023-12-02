@@ -42,4 +42,5 @@ streamlit run final_ui.py
 
 ### OUTPUT:
 
-![Uploding paper](
+![Uploding paper](https://github.com/Naveena-19/Predict_Score/blob/main/Uploding_scripts.png)
+![Results](https://github.com/Naveena-19/Predict_Score/blob/main/Results.png)
